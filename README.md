@@ -18,6 +18,9 @@ In order to avoid the problem of overfitting I have also added a dropout layers 
 In "inference.ipynb" notebook, I'll load the MNIST multidigit classification model I created in the previous notebook with PyTorch. Then we will use this model for predicting the class of a single input image.
 
 For implementing this notebook, please download the `main.py` and `checkpoint.pt` files that I have added in this repo.
+You can download the `checkpoint.pt' from this link : (https://drive.google.com/file/d/1UmrntW11CtGeGkJt6KCis3yQhFUaT77j/view?usp=share_link)[https://drive.google.com/file/d/1UmrntW11CtGeGkJt6KCis3yQhFUaT77j/view?usp=share_link]
+
+
 
 
 
